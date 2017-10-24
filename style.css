@@ -1,1 +1,32 @@
 
+html, body {
+	margin: 0;
+	padding: 0;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.halfr {
+	height: 10%;
+	width: 100%;
+	background-color: red;
+}
+
+.blue {
+	height: 40vh;
+	width: 100vw;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.box {
+	height: 100%;
+	width: calc(100%/3);
+	}
+	
+.picture {
+	height: 85vh;
+	width:100vw;
+	background-color: orange;
