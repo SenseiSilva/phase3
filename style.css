@@ -16,7 +16,7 @@ html, body {
 }
 
 .blue {
-	height: 90vh;
+	height: 50vh;
 	width: 100vw;
 	display: flex;
 	flex-wrap: wrap;
