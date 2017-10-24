@@ -30,3 +30,21 @@ html, body {
 	height: 85vh;
 	width:100vw;
 	background-color: orange;
+}
+
+.green {
+	background-color: green;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.white {
+	background-color: grey;
+}
+
+.blue1 {
+	background-color: blue;
+}
+
